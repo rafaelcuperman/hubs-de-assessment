@@ -1,0 +1,9 @@
+*.pptx
+*.csv
+*.parquet
+holes.ipynb
+*.zip
+*.ipynb_checkpoints
+solution/
+venv/
+*.docx
