@@ -7,3 +7,4 @@ holes.ipynb
 solution/
 venv/
 *.docx
+!take_home_test.docx
